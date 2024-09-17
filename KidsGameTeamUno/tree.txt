@@ -1,0 +1,115 @@
+Listado de rutas de carpetas para el volumen OS
+El número de serie del volumen es EAD7-FE3D
+C:.
+|   .htaccess
+|   config.php
+|   index.php
+|   readme.txt
+|   tree.txt
+|   
++---db
+|       connection.php
+|       Create.php
+|       database-entity.sql
+|       Database.php
+|       Insert.php
+|       Select.php
+|       structureDb.php
+|       test.php
+|       Update.php
+|       
++---public
+|   +---assets
+|   |   +---css
+|   |   |   |   styles.css
+|   |   |   |   styles.css.bak
+|   |   |   |   style_bkp.css
+|   |   |   |   
+|   |   |   \---vendor
+|   |   |           bootstrap.min.css
+|   |   |           
+|   |   +---js
+|   |   |   |   checkForm-ajax.js
+|   |   |   |   main.js
+|   |   |   |   uname-Exist.js
+|   |   |   |   
+|   |   |   +---signup-onkeyup
+|   |   |   |       fname-ajax.js
+|   |   |   |       lname-ajax.js
+|   |   |   |       pcode1-ajax.js
+|   |   |   |       pcode2-ajax.js
+|   |   |   |       uname-ajax.js
+|   |   |   |       uname-exist-ajax.js
+|   |   |   |       
+|   |   |   \---vendor
+|   |   |           bootstrap.bundle.min.js
+|   |   |           jquery-3.6.4.js
+|   |   |           
+|   |   \---media
+|   |       +---audio
+|   |       |       .gitkeep
+|   |       |       
+|   |       +---image
+|   |       |       .gitkeep
+|   |       |       background.jpeg
+|   |       |       confetti.jpg
+|   |       |       pexels-padli-pradana-772478.jpg
+|   |       |       pexels-photo-1061142.jpeg
+|   |       |       
+|   |       \---video
+|   |               .gitkeep
+|   |               
+|   +---form
+|   |       about-us.php
+|   |       game-form.php
+|   |       pw-update-form.php
+|   |       signin-form.php
+|   |       signup-form.php
+|   |       
+|   +---message
+|   |       game-over.php
+|   |       game-stopped.php
+|   |       game-won.php
+|   |       history-table.php
+|   |       
+|   \---template
+|       |   footer.php
+|       |   head.php
+|       |   header.php
+|       |   nav.php
+|       |   template.php
+|       |   
+|       \---image
+|               .gitkeep
+|               confetti.jpg
+|               pexels-padli-pradana-772478.jpg
+|               pexels-photo-1061142.jpeg
+|               
+\---src
+    +---features
+    |       cancel.php
+    |       checkForm.php
+    |       checkUsername.php
+    |       destroy_session.php
+    |       game.php
+    |       history.php
+    |       newUserClass.php
+    |       pw-update.php
+    |       signin.php
+    |       signout.php
+    |       signup.php
+    |       timeOut.php
+    |       uname_exist.php
+    |       
+    +---functions
+    |       connexion-functions.php
+    |       functions.js
+    |       game-functions.php
+    |       
+    \---signup-onkeyup
+            fname-ajax.php
+            lname-ajax.php
+            pcode1-ajax.php
+            pcode2-ajax.php
+            uname-ajax.php
+            
